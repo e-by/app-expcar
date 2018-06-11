@@ -1,0 +1,44 @@
+label
+{
+    width: 150px;
+    display: block;
+    float: left;
+}
+
+input {
+    margin-bottom: 5px;
+}
+
+label {
+    color:  #253455;
+}
+.container{
+    margin-top: 20px;
+    border-color: #253455;
+    border-style: solid;
+    background-color:#f3f3f3;
+    padding: 20px;
+    border-radius: 8px;
+
+}
+.btn-my-primary {
+    color:white;
+    background-color: #253455;
+}
+
+.form-title {
+    color:  #253455;
+}
+
+.error-hidden {
+    visibility: hidden;
+}
+
+.error-active {
+    color:#253455;
+    display: block;
+    margin-top: 20px;
+}
+.title-error{
+    font-size: 20px;
+}
